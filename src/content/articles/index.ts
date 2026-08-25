@@ -128,6 +128,9 @@ import whatToEatWhenYouDontWantToCook from "./what-to-eat-when-you-dont-want-to-
 // Batch 30
 import zone2CardioLowersInsulinResistanceForHours from "./zone-2-cardio-lowers-insulin-resistance-for-hours";
 
+// Batch 31
+import whyPerimenopauseMakesItHarderToLoseWeight from "./why-perimenopause-makes-it-harder-to-lose-weight";
+
 export const ARTICLES: Article[] = [
   // Batch 1
   howToLoseWeightWithADeskJob,
@@ -225,6 +228,8 @@ export const ARTICLES: Article[] = [
   whatToEatWhenYouDontWantToCook,
   // Batch 30
   zone2CardioLowersInsulinResistanceForHours,
+  // Batch 31
+  whyPerimenopauseMakesItHarderToLoseWeight,
 
 ];
 

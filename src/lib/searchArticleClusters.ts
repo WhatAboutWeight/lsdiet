@@ -59,6 +59,7 @@ export const SEARCH_ARTICLE_CLUSTERS: SearchArticleCluster[] = [
       "do-you-need-to-exercise-to-lose-weight",
       "do-you-need-a-continuous-glucose-monitor-to-lose-weight",
       "zone-2-cardio-lowers-insulin-resistance-for-hours",
+      "why-perimenopause-makes-it-harder-to-lose-weight",
     ],
   },
   {
